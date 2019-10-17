@@ -3,7 +3,7 @@ dist/
 exec -l/
 exec -l /
 node_modules/
-.DS_Store
+*.DS_Store
 Data-Studio.code-workspace
 .vscode/
-.code-workspace
+*.code-workspace
