@@ -1,10 +1,10 @@
 {
-    "name": "ds-community-components",
+    "name": "ds-public-community-components",
     "version": "1.0.0",
-    "description": "Data Studio Community Components",
+    "description": "Public Data Studio Community Components",
     "repository": {
         "type": "git",
-        "url": "https://github.com/spandl/DSCV.git"
+        "url": "https://github.com/spandl/DSCV-Public.git"
     },
     "main": "index.js",
     "scripts": {
@@ -12,13 +12,9 @@
         "build": "rimraf dist && webpack --mode production --config webpack.config.js"
     },
     "keywords": [
-        "webpack",
         "Data Studio",
         "Community Components",
-        "SASS",
         "D3.JS",
-        "Lint",
-        "babel",
         "ES6"
     ],
     "author": "Ralph Spandl - ralph@r42.ca",
