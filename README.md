@@ -1,5 +1,5 @@
 # DSCV
-Data Studio Community Visualizations
+**D**ata **S**tudio **C**ommunity **V**isualizations
 
 ## Description
 D3.js visualizations for Google Data Studio.
@@ -9,13 +9,15 @@ D3.js visualizations for Google Data Studio.
 ### Sunburst diagram with drill down
 
 Source code for sunburst diagram with drill-down option.
-
-[Visualization code heavily based on following observable notebook](https://observablehq.com/@git-ashish/d3-sunburst-zoomable)
+[For a deep dive into the code, please view this 'Local Development Guide' codelab](https://spandl.github.io/DSCV-Public-Codelab)
 
 #### Usage
 
 [See Sample Data Studio report for instructions](https://datastudio.google.com/reporting/1p06tzmnFLNbY92hC2HjYWmjPRmpBI-gK/page/mNHw)
 
+#### Notes
+
+[Visualization code is based on following observable notebook](https://observablehq.com/@git-ashish/d3-sunburst-zoomable)
 
 ## Development
 
